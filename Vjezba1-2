@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+  <ime>Nikola</ime>
+  <prezime>Begović</prezime>
+  <JMBAG>0035243730</JMBAG>
+  <datumRodenja>2003-11-21</datumRodenja>
+  <godinaStudija>2</godinaStudija>
+  <Kontakt>
+    <eMail>nbegovic@tvz.hr</eMail>
+    <telefon>0957416047</telefon>
+  </Kontakt>
+  <Kolegij id="1">
+    <naziv>Podatkovna povezanost i digitalna infrastruktura</naziv>
+    <profesor>Alen</profesor>
+    <ECTS>5</ECTS>
+  </Kolegij>
+  <Kolegij id="2">
+    <naziv>Digitalna fotografija</naziv>
+    <profesor>Milan</profesor>
+    <ECTS>4</ECTS>
+  </Kolegij>
+   <Kolegij id="3">
+    <naziv>Produkcija digitalnih medija</naziv>
+    <profesor>Ivan</profesor>
+    <ECTS>4</ECTS>
+  </Kolegij>
+</Student>
