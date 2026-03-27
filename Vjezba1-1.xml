@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+  <ime>Nikola</ime>
+  <prezime>Begović</prezime>
+  <JMBAG>0035243730</JMBAG>
+  <datumRodenja>2003-11-21</datumRodenja>
+  <godinaStudija>2</godinaStudija>
+  <studijskiProgram>Informatika</studijskiProgram>
+  <Adresa>
+    <ulica>Poljanička</ulica>
+    <grad>Zagreb</grad>
+    <postanskiBroj>10000</postanskiBroj>
+  </Adresa>
+</Student>
