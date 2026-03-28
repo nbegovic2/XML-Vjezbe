@@ -1,1 +1,44 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Knjige>
+  <knjiznica tip="gradska" adresa="Ilica 20, Zagreb">
+    <knjiga id="1"> 
+      <naziv>Na Drini Ćuprija</naziv>
+      <autor>Ivo Andrić</autor>
+      <godina_izdanja>1945</godina_izdanja>
+      <žanr>Roman</žanr>
+      <broj_primjeraka>5</broj_primjeraka>
+    </knjiga>
+    <knjiga id="2"> 
+      <naziv>Zločin i kazna</naziv>
+      <autor>Fjodor Dostojevski</autor>
+      <godina_izdanja>1866</godina_izdanja>
+      <žanr>Roman</žanr>
+      <broj_primjeraka>3</broj_primjeraka>
+    </knjiga>
+  </knjiznica>
+  <knjiznica tip="fakultetska" adresa="Vukovarska 58, Split">
+    <knjiga id="3"> 
+      <naziv>C Programiranje</naziv>
+      <autor>Brian Kernighan</autor>
+      <godina_izdanja>1988</godina_izdanja>
+      <žanr>Informatika</žanr>
+      <broj_primjeraka>7</broj_primjeraka>
+    </knjiga>
+    <knjiga id="4"> 
+      <naziv>Uvod u algoritme</naziv>
+      <autor>Thomas Cormen</autor>
+      <godina_izdanja>2009</godina_izdanja>
+      <žanr>Informatika</žanr>
+      <broj_primjeraka>4</broj_primjeraka>
+    </knjiga>
+    <knjiga id="5"> 
+      <naziv>Hamlet</naziv>
+      <autor>William Shakespeare</autor>
+      <godina_izdanja>1603</godina_izdanja>
+      <žanr>Drama</žanr>
+      <broj_primjeraka>6</broj_primjeraka>
+    </knjiga>
+  </knjiznica>
+</Knjige>
+      
+  
